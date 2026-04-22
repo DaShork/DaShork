@@ -3,7 +3,7 @@ Hi, I'm Minh (you can call me Shork)<br><br>I'm currently a student at FPT Unive
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Nhật Minh Võ) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Nhật Minh Võ) <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Võ Nhật Minh) 
 
 # 💻 Tech Stack:
